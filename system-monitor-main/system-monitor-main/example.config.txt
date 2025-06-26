@@ -1,0 +1,19 @@
+# Email Configuration
+# Replace the values below with your own email credentials
+# For Gmail, use App Password instead of your regular password
+# Learn how to generate App Password: https://support.google.com/accounts/answer/185833
+
+# Your Gmail address that will send the system reports
+SENDER_EMAIL=your.email@gmail.com
+
+# Your Gmail App Password (16 characters, may include spaces)
+# Example: xxxx xxxx xxxx xxxx
+EMAIL_PASSWORD=your_app_password_here
+
+# Email address that will receive the system reports
+RECEIVER_EMAIL=receiver.email@gmail.com
+
+# Note: After creating your config.txt, make sure to:
+# 1. Rename this file from example.config.txt to config.txt
+# 2. Never commit config.txt to version control
+# 3. Keep your credentials secure 
